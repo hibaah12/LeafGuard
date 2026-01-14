@@ -1,0 +1,18 @@
+{
+  "Tomato___Early_blight": {
+    "title": "Early Blight (Tomato)",
+    "cause": "Fungal infection caused by Alternaria solani.",
+    "treatment": [
+      "Remove and destroy infected leaves.",
+      "Apply copper fungicide.",
+      "Avoid overhead watering."
+    ],
+    "prevention": "Rotate crops and use resistant varieties."
+  },
+  "Tomato___Healthy": {
+    "title": "Healthy Tomato Leaf",
+    "cause": "No visible infection.",
+    "treatment": ["No action required."],
+    "prevention": "Continue regular care."
+  }
+}

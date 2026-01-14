@@ -1,0 +1,23 @@
+{
+    "Healthy": {
+        "fertilizer": "No fertilizer needed. Maintain regular watering and sunlight.",
+        "prevention": "Keep monitoring for any early signs of disease."
+    },
+    "Powdery mildew": {
+        "fertilizer": "Use sulfur-based fungicides or neem oil spray once a week.",
+        "prevention": "Avoid overhead watering, improve air circulation, and use resistant plant varieties."
+    },
+    "Leaf spot": {
+        "fertilizer": "Apply copper fungicide or organic compost to boost immunity.",
+        "prevention": "Remove infected leaves and water at the soil level."
+    },
+    "Early blight": {
+        "fertilizer": "Use potassium-rich fertilizer and apply a fungicide like chlorothalonil.",
+        "prevention": "Crop rotation and avoid waterlogging."
+    },
+    "Late blight": {
+        "fertilizer": "Use phosphate-based fungicides like metalaxyl.",
+        "prevention": "Remove infected plants immediately and avoid overhead watering."
+    }
+}
+
