@@ -106,11 +106,11 @@ Use text-to-speech to hear the results aloud.
 
 ![Home](screenshots/home.png)  
 
-*Result 1: Disease Detection Output in Bengali*  
+*Result 1: Disease Detection Output in Malayalam*  
 
 ![Result 1](screenshots/result1.png)  
 
-*Result 2: Disease Detection Output in Malayalam*  
+*Result 2: Disease Detection Output in Bengali*  
 
 ![Result 2](screenshots/result2.png)
 
