@@ -100,6 +100,20 @@ Use text-to-speech to hear the results aloud.
 ├── train_model.py         # Model training script
 └── requirements.txt       # Python dependencies
 ```
+**Screenshots**  
+
+*The LeafGuard homepage showing disease detection options.*  
+
+![Home](screenshots/home.png)  
+
+*Result 1: Disease Detection Output in Bengali*  
+
+![Result 1](screenshots/result1.png)  
+
+*Result 2: Disease Detection Output in Malayalam*  
+
+![Result 2](screenshots/result2.png)
+
 This project is open source and available for personal and educational use.  
 Contributions are welcome! Feel free to submit issues, fork the repository, and create pull requests.  
 If you run into trouble or just want to say hi, feel free to open an issue or reach out.
